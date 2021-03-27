@@ -1,0 +1,2 @@
+# chicagomarathon-website-Scrapping
+We have fetched the links of first 50 male runners in Chicago Marathon 2019 site and store it in a list,Then we use the libraries and for loop to pass each instance of the list with the delay of 2 seconds to our GetData Function.After each iteration of for loop, we get in return of the function list of the required data then we add the data one by one in the DataFrame to show it as the requirement.In additional the dataframe is exported to the csv file to use this data for further use.
